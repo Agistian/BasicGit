@@ -39,6 +39,12 @@ function Adventure() {
             </div>
             <p style={{fontWeight:'600'}}>DOG WALKING</p>
         </div>
+        <div className='' style={{display:'flex', flexDirection:'column', flexWrap:'wrap',justifyContent:'center',alignItems:'center', marginLeft:'50px', marginRight:'50px'}}>
+            <div>
+                <img src='./foto/cycling.png' height="120px" width="120px"/>
+            </div>
+            <p style={{fontWeight:'600'}}>CYCLING</p>
+        </div>
     </div>
   )
 }
